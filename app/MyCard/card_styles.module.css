@@ -1,0 +1,22 @@
+.image {
+    width: 400px;
+    height: 400px;
+    box-shadow: 5px 10px;;
+}
+
+.gif {
+    height: 400px;
+    object-fit: cover;
+}
+
+.result {
+    color:blue;
+    font: bold;
+}
+
+.para {
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 3px;
+}

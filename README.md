@@ -6,3 +6,4 @@
 - Branch options:
   - `main` (default): A polished version from the React/NextJS Bootcamp Day
   - `integration-starter`: Begins work on integration; You can find functionality in `app/students/page.js` and check out [http://localhost:3000](http://localhost:3000)
+# Fullstack-Project
